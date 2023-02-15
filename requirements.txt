@@ -5,4 +5,4 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 -e git://github.com/apanaee/pytube.git@6adb52c97425d17bc84c5ddae55651e3807a73e9#egg=pytube
-Werkzeug==0.16.0
+Werkzeug==2.2.3
